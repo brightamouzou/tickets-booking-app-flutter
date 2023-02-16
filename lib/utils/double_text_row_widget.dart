@@ -13,7 +13,7 @@ class DoubleTextRowWidget extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      "Prochains vols",
+                      "${bigText}",
                       style: Styles.headLineStyle2,
                     ),
 
